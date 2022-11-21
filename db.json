@@ -1,0 +1,158 @@
+{
+
+ "filmesEmLançamento": [
+
+   { 
+     "id":1,
+     "título":"PANTERA NEGRA WAKANDA PARA SEMPRE" ,
+     "ano":2022,
+     "Genero": "AÇÃO / AVENTURA" ,
+     "Direção":"Ryan Coogler",
+     "Elenco":"Lupita Nyong´o, Danai Gurira, Letitia Wright."
+
+   },
+   
+
+   {
+    "id":2,
+    "título":"ADÃO NEGRO",
+    "ano":2022,
+    "Genero":"AÇÃO / AVENTURA",
+    "Direção":"Jaume Collet-Serra",
+    "Elenco": "Dwayne Johnson , Aldis Hodge , Noah Centineo"
+
+   },
+      
+   {
+    "id":3,
+    "título":"ONE PIECE FILM: RED",
+    "ano":2022,
+    "Genero":"ANIMAÇÃO / AVENTURA",
+    "Direção":"Gorô Taniguchi.",
+    "Elenco":"Chô, Hiroaki Hirata, Shûichi Ikeda, Mayumi Tanaka."
+
+
+
+   },
+
+   {
+    "id":4,
+    "título":"NADA É POR ACASO",
+    "ano":2022,
+    "Genero":"DRAMA",
+    "Direção":"Márcio Trigo.",
+    "Elenco":"Rafael Cardoso, Giovanna Lancellotti, Tiago Luz."
+
+   }
+  
+ ],
+
+  "cinemas": [
+    {
+        "id":1,
+         "nome":"Espaço Itaú De Cinema - Rio de Janeiro" ,
+         "localização":"Praia Botafogo 316, Rio de Janeiro, Estado do Rio de Janeiro 22250-040 Brasil ",
+         "bairro":"Botafogo"
+    },
+
+    {
+        "id":2,
+        "nome":"Cinemark Prime - Rio de Janeiro" ,
+        "localização":"Av. das Américas, 3900 Shopping Village Mall, Rio de Janeiro, Estado do Rio de Janeiro 22640-102 Brasil",
+        "bairro":"Zona Oeste"
+    },
+
+    {
+        "id":3,
+        "nome":"Kinoplex Rio Sul - Rio de Janeiro" ,
+        "localização":"Rua Lauro Müller, 116 Shopping Rio Sul, Rio de Janeiro, Estado do Rio de Janeiro 22290-160 Brasil",
+        "bairro":"Botafogo"
+    
+    },
+
+    {
+        "id":4,
+        "nome":"Cinema Cinemark - Rio de Janeiro",
+        "localização":"Av. Embaixador Abelardo Bueno, 1300 Shopping Metropolitano Barra, Rio de Janeiro, Estado do Rio de Janeiro 22775-023 Brasil",
+        "bairro":"Jacarepaguá"
+
+
+    }
+
+
+ ],
+
+
+ "precos":[
+    {
+        "sala": 1,
+        "valorMeia": "R$20",
+        "valorInteira": "R$40",
+        "id": 1
+      },
+      {
+        "sala": 2,
+        "valorMeia": "R$22",
+        "valorInteira": "R$44",
+        "id": 2
+      },
+      {
+        "sala": 3,
+        "valorMeia": "R$25",
+        "valorInteira": "R$50",
+        "id": 3
+      },
+      {
+        "sala": 4,
+        "valorMeia": "R$26",
+        "valorInteira": "R$52",
+        "id": 4
+      } 
+
+
+ ],
+
+ "filmesRetirados": [
+     {
+       "id":"1",
+       "nome":"Não! Não Olhe!",
+       "genero":"Terror/Ficção científica",
+       "Direção":"Jordan Peele",
+       "Ano":"2022"
+
+     },
+
+     {
+
+     "id":"2",
+     "nome":"O Telefone Preto",
+     "genero":"Terror/Thriller ",
+     "Direção":"Scott Derrickson",
+     "Ano":"2022"  
+
+
+     },
+      
+     {
+     
+       "id":"3",
+       "nome":"Não! Não Olhe!",
+       "genero":"Terror/Ficção científica",
+       "Direção":"Jordan Peele",
+       "Ano":"2022"
+
+     },
+     { 
+
+     "id":"4",
+     "nome":"Homem-Aranha: Sem Volta para Casa",
+     "genero":"Ação/Aventura ",
+     "Direção":"Jon Watts",
+     "Ano":"2022"
+
+    
+     }
+
+ ]
+
+}

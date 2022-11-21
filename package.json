@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "ProjetoIndividualModulo3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yur1sz/ProjetoIndividualModulo3.git",
+  "author": "Yur1sz <yuri_nunes85@outlook.com>",
+  "license": "MIT"
+}
